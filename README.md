@@ -1,5 +1,6 @@
 <img width="1024" height="473" alt="image" src="https://github.com/user-attachments/assets/9c2a371a-a5ed-4c81-8df4-6c63888ef3f7" />
-# Hi! I'm Juan David Páez
+
+## Hi! I'm Juan David Páez
 ### DevOps Engineer | Full Stack Developer | Telematics Engineering Student
 
 ---
