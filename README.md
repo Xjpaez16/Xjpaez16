@@ -7,9 +7,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **DevOps Engineer** and **Full Stack Developer** with experience in Linux server administration, CI/CD pipeline automation, production infrastructure monitoring, and direct technical client communication. Currently studying Telematics Engineering at Universidad Distrital Francisco José de Caldas.
+I am a **DevOps Engineer** and **Full Stack Developer** with experience in Linux server administration, production infrastructure monitoring, and direct technical client communication. Currently studying Telematics Engineering at Universidad Distrital Francisco José de Caldas.
 
-- **🔭 Currently working on:** CI/CD pipelines, active Linux server monitoring, and production deployments.
+- **🔭 Currently working on:** active Linux server and logs monitoring, and production deployments.
 - **🌱 Learning:** NestJS and Angular to build modern, scalable Full Stack architectures.
 - **⚡ Core Focus:** Workflow automation, system stability, and cloud solutions.
 
@@ -24,10 +24,6 @@ I am a **DevOps Engineer** and **Full Stack Developer** with experience in Linux
 - **Methodologies:** Scrum / Agile Development.
 
 ---
-
-
-## Github stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xjpaez16&theme=dark)](https://git.io/streak-stats) 
 
 ## 📌 Featured Projects
 
