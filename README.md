@@ -17,7 +17,7 @@ I am a **DevOps Engineer** and **Full Stack Developer** with experience in Linux
 
 ## 🛠️ Tech Stack
 
-- **DevOps & Cloud:** Linux Server Administration, Bash Scripting, CI/CD Pipelines, AWS (S3, EC2), Firebase.
+- **DevOps & Cloud:** Linux Server Administration, Bash Scripting, AWS (S3, EC2), Firebase.
 - **Backend:** Node.js, PHP, Java, C++, REST APIs, NestJS (Learning).
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
 - **Frontend & Mobile:** JavaScript, React, Svelte, Kotlin (Android), HTML5, CSS3, Figma.
