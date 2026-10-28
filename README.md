@@ -1,56 +1,23 @@
 <img width="1024" height="473" alt="image" src="https://github.com/user-attachments/assets/9c2a371a-a5ed-4c81-8df4-6c63888ef3f7" />
 
 ## Hi! I'm Juan David Páez
-### DevOps Engineer | Full Stack Developer | Telematics Engineering Student
 
----
+### DevOps Engineer | Linux · AWS · Production Deployments
 
-## 👨‍💻 About Me
+I manage Linux servers, debug production issues and coordinate deployments
+for a Claro Colombia project at Wavenet. Telematics Engineering student
+(Universidad Distrital), B2 English (EF SET), starting out in cybersecurity.
 
-I am a **DevOps Engineer** and **Full Stack Developer** with experience in Linux server administration, production infrastructure monitoring, and direct technical client communication. Currently studying Telematics Engineering at Universidad Distrital Francisco José de Caldas.
-
-- **🔭 Currently working on:** active Linux server and logs monitoring, and production deployments.
-- **🌱 Learning:** NestJS and Angular to build modern, scalable Full Stack architectures.
-- **⚡ Core Focus:** Workflow automation, system stability, and cloud solutions.
-
----
+- 🔭 Working on: containerizing and automating deployments (Docker, GitHub Actions)
+- 🌱 Learning: AWS certification path, cybersecurity fundamentals
+- ⚡ Focus: system stability, workflow automation, secure deployments
 
 ## 🛠️ Tech Stack
+- **DevOps & Linux:** Linux server administration, Bash, Docker Compose, AWS (S3, EC2)
+- **Backend:** Node.js, NestJS, REST APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Methodologies:** Scrum / Agile
 
-- **DevOps & Cloud:** Linux Server Administration, Bash Scripting, AWS (S3, EC2), Firebase.
-- **Backend:** Node.js, PHP, Java, C++, REST APIs, NestJS (Learning).
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
-- **Frontend & Mobile:** JavaScript, React, Svelte, Kotlin (Android), HTML5, CSS3, Figma.
-- **Methodologies:** Scrum / Agile Development.
-
----
-
-## 📌 Featured Projects
-
-### 1. cloUD Colombia
-- **Tech Stack:** PHP, AWS (S3/EC2), JavaScript
-- **Description:** Academic platform featuring a repository system, tutoring appointment scheduling, and AWS integration for high availability and scalability.
-
-### 2. Oink
-- **Tech Stack:** Kotlin, Firebase
-- **Description:** Android mobile application for personal finance management, expense tracking, and budget management.
-
-### 3. WalleTeam
-- **Tech Stack:** Kotlin
-- **Description:** Collaborative mobile application focused on teamwork, group task management, and communication.
-
-### 4. Prontomueble
-- **Tech Stack:** Java
-- **Description:** Management and inventory system for tracking furniture orders, stock control, and administrative workflows.
-
-### 5. ObsidianTerminal
-- **Tech Stack:** Svelte
-- **Description:** Interactive terminal-style web interface designed for fast command-driven navigation and workflows.
-
----
-
-## 📬 Contact & Links
-
-- **Email:** juandavidpaezsierra@gmail.com
-- **Location:** Colombia
-- **Education:** Universidad Distrital Francisco José de Caldas
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/juan-david-paez-sierra-15380a253/
+- Email: juandavidpaezsierra@gmail.com
